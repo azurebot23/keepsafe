@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/action_settings" android:orderInCategory="100" android:title="@string/action_settings" android:showAsAction="never" />
+ 
+            <item
+                android:id="@+id/cabs"
+                
+                android:title="Nearest Cabs"/>
+            <item
+                android:id="@+id/hospitals"
+                
+                android:title="Nearest Hospitals"
+                />
+            <item
+                android:id="@+id/policeStations"
+                
+                android:title="Nearest Police Station"/>
+            <item
+                android:id="@+id/safeLocation"
+                android:title="Nearest Safe location"/>
+            
+            <item
+                android:id="@+id/areaReviews"
+                android:title="Get your Area Reviews"/>
+            <item
+                android:id="@+id/info"
+                android:title="Know ur Strengths!Fight Back"/>
+        </menu>
+
+
+
